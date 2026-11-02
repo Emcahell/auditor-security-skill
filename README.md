@@ -23,10 +23,10 @@ The initial audit is read-only. Active testing requires explicit authorization a
 Install via skills.sh:
 
 ```sh
-npx skills add emcahell/frontend-anti-tech-debt-skill
+npx skills add emcahell/auditor-security-skill
 ```
 
-This installs to `.agents/skills/frontend-anti-tech-debt/SKILL.md`.
+This installs to `.agents/skills/auditor-security-skill/SKILL.md`.
 
 ### Manual
 
